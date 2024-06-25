@@ -1,4 +1,4 @@
-/* File: automatic.css - Version: 3.0.0-rc2 - Generated: 2024-06-23 21:18:37 */
+/* File: automatic.css - Version: 3.0.0-rc2 - Generated: 2024-06-24 16:55:34 */
 :root, .color-scheme--main, .fr-slider-section-foxtrot {
   --primary-hex: #2D67FB;
   --primary-hsl: 223 96% 58%;
@@ -113,7 +113,7 @@
   --neutral-l: 0%;
   --neutral-hover-h: 0;
   --neutral-hover-s: 0%;
-  --neutral-hover-l: 0%;
+  --neutral-hover-l: 8%;
   --neutral-ultra-light-h: 0;
   --neutral-ultra-light-s: 0%;
   --neutral-ultra-light-l: 95%;
@@ -167,7 +167,7 @@
   --base-comp: #331a0a;
   --base-medium: #2994d6;
   --neutral: #000000;
-  --neutral-hover: black;
+  --neutral-hover: #141414;
   --neutral-ultra-light: #f2f2f2;
   --neutral-light: #d9d9d9;
   --neutral-semi-light: #a6a6a6;
